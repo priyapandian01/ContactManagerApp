@@ -30,7 +30,4 @@ Built using IntelliJ IDEA.
 
 ---
 
-## Author
 
-Priya Pandian  
-[GitHub: @priyapandian01](https://github.com/priyapandian01)
